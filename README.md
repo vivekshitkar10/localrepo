@@ -1,4 +1,4 @@
-# This is my Local Repositor
+# This is my Local Repository
 
 Just a demo repo.
 <br>
